@@ -14,3 +14,5 @@
 - [ ] Binary Search Tree
 - [ ] B-Trees
 - [ ] Red-Black Trees
+- [ ] Depth-First Search (DFS)
+- [ ] Breadth-First Search (BFS)
