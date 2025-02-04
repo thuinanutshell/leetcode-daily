@@ -1,6 +1,6 @@
 # Data Structures & Algorithms
 ### Sorting Algorithms
-- [ ] Binary Search
+- [x] Binary Search
 - [ ] Quicksort
 - [ ] Heapsort
 - [ ] Bubblesort
