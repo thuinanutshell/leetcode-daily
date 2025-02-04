@@ -1,4 +1,5 @@
 # Data Structures & Algorithms
+Absolutely no AI tools are used to write the code for these data structures and algorithms.
 ### Sorting Algorithms
 - [x] Binary Search
 - [ ] Quicksort
