@@ -3,7 +3,7 @@ Absolutely no AI tools are used to write the code for these data structures and 
 ### Sorting Algorithms
 - [x] Binary Search
 - [ ] Quicksort
-- [ ] Heapsort
+- [x] Heapsort
 - [ ] Bubblesort
 - [ ] Mergesort
 - [ ] k-way Mergesort
