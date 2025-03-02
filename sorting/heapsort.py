@@ -17,7 +17,7 @@ Methods
 class MaxHeap:
     def __init__(self, A):
         self.heap_size = len(A)
-        self.parent_node = (self.heap_size) // 2
+        self.parent_node = (self.heap_size) // 2 # start at the midpoint
         print(f"{self.parent_node = }")
         self.A = A
    
